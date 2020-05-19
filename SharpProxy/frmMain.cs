@@ -236,5 +236,10 @@ namespace SharpProxy
             if (btnStop.Enabled)
                 showQRCode();
         }
+
+        private void frmMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
